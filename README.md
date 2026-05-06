@@ -1,8 +1,8 @@
-D - Dark, Dark-Language
+D - Dark, Dark
 
 E - English
 
-L - Light, Light-Language
+L - Light, Language
 
 I - Information, imagination
 
