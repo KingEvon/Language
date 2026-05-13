@@ -1,4 +1,4 @@
-D - Dark, Dark
+D - Dark
 
 E - English
 
