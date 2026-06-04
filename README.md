@@ -4,6 +4,6 @@ E - English
 
 L - Light
 
-I - Information, imagination, Internet
+I - Information
 
 Dictionary - Universally Complete Dictionary
