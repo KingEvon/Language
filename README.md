@@ -2,7 +2,7 @@ D - Dark
 
 E - English
 
-L - Light, Language
+L - Light
 
 I - Information, imagination, Internet
 
