@@ -8,4 +8,6 @@ I - Information
 
 Cool - Language
 
+M - Music
+
 Dictionary - Universally Complete Dictionary
